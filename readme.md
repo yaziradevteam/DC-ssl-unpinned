@@ -1,5 +1,7 @@
 # SSL Unpinned APK
 
+Contact: https://t.me/yaziraof
+
 This repository contains the patched APK built from:
 
 - Package: `com.discore`
