@@ -1,10 +1,10 @@
-# SSL Unpinned APK
+# DC SSL Unpinned APK
 
 Contact: https://t.me/yaziraof
 
 This repository contains the patched APK built from:
 
-- Package: `com.discore`
+- Package: `com.discore` (modified)
 - Version: `306.13 - Stable`
 - Version code: `306013`
 - Final APK: `discord-patched.apk`
